@@ -1,0 +1,1 @@
+103_can_normal_2node\startup_stm32f103xb.o: startup_stm32f103xb.s
